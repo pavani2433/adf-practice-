@@ -1,0 +1,9 @@
+{
+	"name": "ppavanidatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7390446-a083-4aca-8c6b-46a169c71023",
+		"tenantId": "16f4407f-c4f4-4367-9858-b4aa462b4e33"
+	}
+}
